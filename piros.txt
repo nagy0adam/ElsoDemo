@@ -1,2 +1,5 @@
 eper
 meggy
+labda
+alma
+teknos
